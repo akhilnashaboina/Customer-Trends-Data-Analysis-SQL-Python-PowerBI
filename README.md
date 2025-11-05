@@ -63,6 +63,8 @@ How can the company leverage consumer shopping data to identify trends, improve 
 The Customer Behavior Dashboard provides an interactive view of the analysis with filters for:
 
 - Subscription Status, Gender, Category, Shipping Type
+<img width="1399" height="764" alt="Dashboard" src="https://github.com/user-attachments/assets/098fb5a2-1f17-4253-84ba-cd4f9cb61762" />
+
 
 ## Key Metrics:
 
