@@ -58,4 +58,30 @@ How can the company leverage consumer shopping data to identify trends, improve 
 | **Customer Segments** | **2,659 Loyal**, **605 Returning**, **73 New** |
 | **Age Group Revenue** | Young Adults lead with **$52,896** in total revenue. |
 
+## 📈 Power BI Dashboard
 
+The Customer Behavior Dashboard provides an interactive view of the analysis with filters for:
+
+- Subscription Status, Gender, Category, Shipping Type
+
+## Key Metrics:
+
+- Total Customers: 3.9K
+
+- Average Purchase Amount: $59.76
+
+- Average Rating: 3.75
+
+- Top Revenue Category: Clothing ($104K)
+
+## 💡 Business Recommendations
+
+- Boost Subscriptions: Offer exclusive benefits to attract new subscribers.
+
+- Loyalty Programs: Reward repeat customers to increase retention.
+
+- Optimize Discounts: Review high-discount categories (Footwear, Outerwear).
+
+- Promote Top Products: Focus marketing on top-rated and best-selling items.
+
+- Target Key Demographics: Young Adults and Middle-aged customers drive the most revenue.
