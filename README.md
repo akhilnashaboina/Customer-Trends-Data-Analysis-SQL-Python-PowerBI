@@ -48,11 +48,14 @@ How can the company leverage consumer shopping data to identify trends, improve 
 **GitHub:** Project Repository
 
 ## 📊 Key Insights
-Analysis                Findings
-Revenue by Gender        Male customers generated $134,587 vs. $64,723 from females.
-Top-Rated Products      Boots (3.9★), Gloves (3.89★), Sandals (3.83★).
-Shipping Type            Express users spent slightly more ($60.34) than Standard ($58.18).
-Subscription Behavior    Subscribers (27%) had nearly similar purchase averages but lower total revenue.
-Customer Segments        2,659 Loyal, 605 Returning, 73 New.
-Age Group Revenue        Young Adults lead with $52,896 in total revenue.
+
+| **Analysis** | **Findings** |
+|:--------------|:-------------|
+| **Revenue by Gender** | Male customers generated **$134,587** vs. **$64,723** from females. |
+| **Top-Rated Products** | **Boots (3.9★)**, **Gloves (3.89★)**, **Sandals (3.83★)** |
+| **Shipping Type** | Express users spent slightly more (**$60.34**) than Standard (**$58.18**). |
+| **Subscription Behavior** | Subscribers (**27%**) had nearly similar purchase averages but lower total revenue. |
+| **Customer Segments** | **2,659 Loyal**, **605 Returning**, **73 New** |
+| **Age Group Revenue** | Young Adults lead with **$52,896** in total revenue. |
+
 
